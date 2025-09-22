@@ -1,6 +1,6 @@
 **Projeto Desenvolvido por**: Mattheus Jordão Monteiro  
 **Matrícula**: 4052025000505  
-**Contato**: mattjordao@hotmai.com  
+**Contato**: mattjordao@hotmail.com  
 **Data**: 28/09/2025
 
 
